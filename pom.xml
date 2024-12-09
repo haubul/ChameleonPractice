@@ -24,13 +24,13 @@
       <artifactId>chameleon-db-cucumber</artifactId>
     </dependency>
     <dependency>
-      <groupId>ru.ibsqa.chameleon</groupId>
-      <artifactId>chameleon-db</artifactId>
-    </dependency>
-    <dependency>
       <groupId>com.h2database</groupId>
       <artifactId>h2</artifactId>
       <scope>test</scope>
+    </dependency>
+    <dependency>
+      <groupId>ru.ibsqa.chameleon</groupId>
+      <artifactId>chameleon-log</artifactId>
     </dependency>
   </dependencies>
   <repositories>
